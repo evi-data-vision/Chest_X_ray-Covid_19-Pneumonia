@@ -24,5 +24,5 @@
 ## 📥 نصب و اجرا
 1. مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/evi-data-vision/Chest_XRay-Classification.git
+git clone https://github.com/evi-data-vision/Chest_X_ray-Covid_19-Pneumonia.git
    cd Chest_XRay-Classification
